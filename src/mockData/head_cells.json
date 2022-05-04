@@ -1,0 +1,57 @@
+[
+  {
+    "id": "severity",
+    "disablePadding": true,
+    "label": "SEVERITY"
+  },
+  {
+    "id": "time",
+    "disablePadding": false,
+    "label": "TIME"
+  },
+  {
+    "id": "sla",
+    "disablePadding": false,
+    "label": "SLA"
+  },
+  {
+    "id": "description",
+    "disablePadding": false,
+    "label": "DESCRIPTION"
+  },
+  {
+    "id": "security_analyst",
+    "disablePadding": false,
+    "label": "SECURITY ANALYST"
+  },
+  {
+    "id": "owner",
+    "disablePadding": false,
+    "label": "OWNER"
+  },
+  {
+    "id": "workflow",
+    "disablePadding": false,
+    "label": "WORKFLOW"
+  },
+  {
+    "id": "status",
+    "disablePadding": false,
+    "label": "STATUS"
+  },
+  {
+    "id": "findings",
+    "disablePadding": true,
+    "label": "# OF FINDINGS"
+  },
+  {
+    "id": "communications",
+    "disablePadding": false,
+    "label": "COMMUNICATIONS"
+  },
+  {
+    "id": "action",
+    "disablePadding": false,
+    "label": "ACTION"
+  }
+]
